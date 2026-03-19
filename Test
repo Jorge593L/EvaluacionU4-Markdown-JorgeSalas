@@ -1,0 +1,34 @@
+# Evaluación de Conocimientos: GitHub y Markdown
+ 
+## 1. Conceptos Generales
+**¿Qué es un archivo Markdown y para qué sirve?**
+Es un archivo de texto plano que utiliza una sintaxis sencilla para dar formato (títulos, listas, enlaces, etc.). 
+Sirve para crear documentos estructurados de forma rápida y 
+legible, especialmente en plataformas como GitHub. 
+
+**¿Cuál es el propósito del archivo README.md en un repositorio de GitHub?**
+Es el documento principal de un repositorio que explica de qué trata el proyecto, cómo usarlo, cómo instalarlo y 
+otra información importante para los usuarios o desarrolladores. 
+--- 
+## 2. Investigación de Sintaxis Markdown
+Completa la siguiente guía de referencia con los símbolos correctos:
+ 
+Elemento	Sintaxis Markdown (Ejemplo)	Resultado Visual
+Título Nivel 1	# Texto	Título Grande
+Título Nivel 2	## Texto	Título Mediano
+Texto en Negrita	**Texto**	Texto
+Texto en Cursiva	*Texto*	Texto
+Lista Desordenada	- Elemento	• Elemento
+Lista Ordenada	1. Elemento	1. Elemento
+| **Insertar un Enlace** | `[Nombre](URL)` | [Enlace](https://google.com) |
+ 
+---
+ 
+## 3. Flujo de Trabajo en GitHub Desktop
+**¿Qué diferencia hay entre hacer un "Commit" y hacer un "Push"?**
+* **Commit:** (Guarda los cambios realizados en el repositorio de forma local con un mensaje descriptivo.)
+* **Push:** (Envía los commits guardados en el repositorio local hacia el repositorio remoto en GitHub.)
+ 
+**¿Para qué sirve el botón "Fetch Origin"?**
+Sirve para comprobar si hay cambios nuevos en el repositorio remoto sin descargarlos automáticamente, 
+permitiendo ver actualizaciones antes de hacer un pull.
